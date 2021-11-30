@@ -1,6 +1,6 @@
 # **Faustoken Crowdsale**
 
-![crow](scrn/borussia-dortmund.png)
+![crowd](scrn/borussia-dortmund.png)
 
 ## Background
 
